@@ -2,7 +2,6 @@
 
 int main ()
 {
+printf("Hello Muhammet Batuhan Oezdogan");
 
-  printf("Hallöchen World \n");
-  return 0;
 }
